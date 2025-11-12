@@ -112,4 +112,4 @@ By identifying high-risk demographics, temporal patterns, and underlying causes,
 
 ## 🙏 **Acknowledgements**
 
-Special thanks to the **Data Analytics Capstone Program** for providing the resources and framework that enabled this meaningful exploration of mental health analytics.  
+Special appreciation to the 10Analytics Capstone Program** for providing the resources and framework that enabled this meaningful exploration of mental health analytics.  
